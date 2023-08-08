@@ -3,7 +3,6 @@ import Landing from './pages/LandingPage';
 import ListOrder from './pages/ListOrder';
 import DetailProduct from './pages/detailProduct';
 
-
 const App = () => {
   return (
     <Router>
